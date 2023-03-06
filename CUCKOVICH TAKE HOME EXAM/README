@@ -1,6 +1,6 @@
 First, thank you for the YvesBlue Data Engineer Take Home Exam.  Doing this exam was an excellent opportunity to learn more about the position.
 
-##1. Query Optimization
+##1. Query Optimization -- Found in the Cuckovich_1_DB_files folder
 File List and Explanation:
 
 Cuckovich_1_CAC_create_insert_data_challenges.sql -- text file with SQL which creates db tables and inserts the initial data.  
@@ -16,7 +16,7 @@ Cuckovich_1_CAC_output_dump_file.sql -- Dump file (type plain text) with the dat
     I hope that is ok.  Let me know if you have any issues.
 
 
-##2. Carbon Analytic Calculation
+##2. Carbon Analytic Calculation -- Found in the Cuckovich_2_Python_files folder
 File List and Explanation:
 Cuckovich_2_CAC_solution_V8.ipynb -- Jupyter Notebook file with my Python code with the function named strawman_org_emissions to calculate the (strawman) Adjusted CO2 Total emissions for a company.
     Note that the first line of the file should be commented out unless you want to update the .py file used for pytests.
@@ -46,7 +46,7 @@ How to Run the Tests:
 Use Jupyter Notebooks to open test_Cuckovich_2_CAC_solution_V2.ipynb
 Run the cell that has the following code !pytest
 
-##3. Data QA
+##3. Data QA -- Excel File at the root level called Cuckovich_3_QA_solution 
 File List and Explanation:
 Cuckovich_3_QA_solution.xlsx -- I filled out the Excel as instructed.  I also added a sheet called Cuckovich Notes that has some information on my QA process.
 
