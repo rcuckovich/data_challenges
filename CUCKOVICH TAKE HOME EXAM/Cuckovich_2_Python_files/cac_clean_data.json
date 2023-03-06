@@ -1,0 +1,17 @@
+[
+  {
+    "ISIN": "US0000000000",
+    "Total Energy Use": 7000000,
+    "Total CO2 Equivalents Emissions": 94972.49198,
+    "Renewable Energy Purchased": 10576.00479,
+    "Renewable Energy Produced": 96652.16115,
+    "Carbon Credit Value": 8171.323352
+  },
+  {
+    "ISIN": "US0000000001",
+    "Total Energy Use": 80000000,
+    "Total CO2 Equivalents Emissions": 306900.6192,
+    "Renewable Energy Purchased": 31961.79405,
+    "Renewable Energy Produced": 38372.1921
+  }
+]

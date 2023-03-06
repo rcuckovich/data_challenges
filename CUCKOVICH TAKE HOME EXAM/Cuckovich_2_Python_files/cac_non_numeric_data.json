@@ -1,0 +1,25 @@
+[
+  {
+    "ISIN": "US0000000000",
+    "Total Energy Use": 7000000,
+    "Total CO2 Equivalents Emissions": 94972.49198,
+    "Renewable Energy Purchased": 10576.00479,
+    "Renewable Energy Produced": 96652.16115,
+    "Carbon Credit Value": 8171.323352
+  },
+  {
+    "ISIN": "US0000000001",
+    "Total Energy Use": "Bob",
+    "Total CO2 Equivalents Emissions": "Bob",
+    "Renewable Energy Purchased": "Bob",
+    "Renewable Energy Produced": "Bob"
+  },
+  {
+    "ISIN": "US0000000005",
+    "Total Energy Use": 0,
+    "Total CO2 Equivalents Emissions": 204269.3867,
+    "Renewable Energy Purchased": 9991.766644,
+    "Renewable Energy Produced": 55829.34503,
+    "Carbon Credit Value": 26647.856
+  }
+]
